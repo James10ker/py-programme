@@ -18,3 +18,4 @@ new_data=data.drop(columns=["customerID","gender","Dependents","Partner","Paperl
 print(new_data)
 
 print(new_data.columns)
+print("-------------------")
